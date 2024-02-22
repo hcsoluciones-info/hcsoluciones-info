@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hcsoluciones-info
+- 👀 I’m interested in code and software
+- 🌱 I’m currently learning Astro/ NextJs/ Node / Nest
+- 🕸️ https://hcsoluciones.com.ar
+- by Hernán Casalderrey.
